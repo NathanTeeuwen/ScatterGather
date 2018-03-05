@@ -1,4 +1,4 @@
-Timings comparing [Scatter vs Gather](https://en.wikipedia.org/wiki/Gather-scatter_(vector_addressing) algorithms.
+Timings comparing [Scatter vs Gather](https://en.wikipedia.org/wiki/Gather-scatter_(vector_addressing)) algorithms.
 Timings done on Release builds without debugger attached.
 
 Processor	Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, 2904 Mhz, 2 Core(s), 4 Logical Processor(s)
